@@ -21,11 +21,11 @@ A lab for capturing and analyzing network traffic using Wireshark and Snort.
 
 ## Projects
 
-### [SIEM Implementation and Analysis Using Elastic](Labs/SIEM/README.md)
+### [SIEM Implementation and Analysis Using Elastic](Projects/SIEM/README.md)
 
 Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition.  Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management.
 
-### [Malware Analysis](Projects/Malware_Analysis/README.md)
+### [SOC Automation](Projects/SOC_Automation/README.md)
 
 A project focused on reverse engineering malware samples and analyzing their behavior.
 
