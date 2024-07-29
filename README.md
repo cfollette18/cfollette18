@@ -16,7 +16,7 @@ Welcome to my Cybersecurity Portfolio. This repository contains various projects
 
 ### [SIEM Implementation and Analysis Using Elastic](Labs/SIEM/README.md)
 
-An implementation of the ELK Stack for centralized log management and threat detection.
+Visualization and Alerting in SIEM: Developed a custom dashboard in Elastic SIEM to visualize security events, demonstrating skills in data Interpretation and pattern recognition.  Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident response and alert management
 
 ### [Network Traffic Analysis](Labs/Network_Traffic_Analysis/README.md)
 
